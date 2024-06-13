@@ -1,10 +1,10 @@
-Libro de recetas:
+# Libro de recetas:
 
 Receta: Hamburguesa
 
 Igredientes:
--Pan
--Torta
--Salsas
--Tocineta
--Queso
+- Pan
+- Torta 1/4
+- Salsas
+- Tocineta
+- Queso
